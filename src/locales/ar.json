@@ -1,0 +1,28 @@
+{
+  "common": {
+    "dashboard": "لوحة القيادة",
+    "containers": "الحاويات",
+    "parts": "قطع الغيار",
+    "sales": "المبيعات",
+    "customers": "العملاء",
+    "expenses": "النفقات",
+    "settings": "الإعدادات",
+    "search": "بحث شامل للأوامر...",
+    "loading": "جاري التحميل...",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "add": "إضافة",
+    "export": "تصدير"
+  },
+  "dashboard": {
+    "overview": "نظرة عامة",
+    "date": "التاريخ:",
+    "totalStockValue": "إجمالي قيمة المخزون",
+    "totalRevenue": "إجمالي الإيرادات",
+    "outstandingDebt": "الديون المستحقة",
+    "containersInTransit": "حاويات في الطريق",
+    "revenueVsProfit": "الإيرادات مقابل الربح",
+    "actionNeeded": "إجراء مطلوب",
+    "viewAllIssues": "عرض جميع المشاكل"
+  }
+}

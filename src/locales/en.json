@@ -1,0 +1,28 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "containers": "Containers",
+    "parts": "Parts",
+    "sales": "Sales",
+    "customers": "Customers",
+    "expenses": "Expenses",
+    "settings": "Settings",
+    "search": "Global command search...",
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "save": "Save",
+    "add": "Add",
+    "export": "Export"
+  },
+  "dashboard": {
+    "overview": "Overview",
+    "date": "Date:",
+    "totalStockValue": "Total Stock Value",
+    "totalRevenue": "Total Revenue",
+    "outstandingDebt": "Outstanding Debt",
+    "containersInTransit": "Containers In Transit",
+    "revenueVsProfit": "Revenue vs Profit",
+    "actionNeeded": "Action Needed",
+    "viewAllIssues": "View All Issues"
+  }
+}
